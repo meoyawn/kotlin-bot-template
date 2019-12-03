@@ -1,10 +1,6 @@
 # Kotlin Bot Template
 
-No time to explain
-
 I'm using this template to build telegram, reddit, twitter bots using Kotlin
-
-Good luck
 
 ## Using secrets
 
